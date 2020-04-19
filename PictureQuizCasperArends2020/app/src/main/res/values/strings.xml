@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Picture Quiz Casper Arends 2020</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+    <string name="what_kind_of_animal_is_this">What kind of Animal is this?</string>
+    <string name="input_text">Input Text</string>
+    <string name="confirm">Confirm</string>
+    <string name="todo">TODO</string>
+
+</resources>
